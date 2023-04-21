@@ -22,6 +22,7 @@ setup(
         'console_scripts': [
             'pyx4_gps = pyx4.pyx4_gps:main',
             'pyx4_offboard_control = pyx4.offboard_control:main',
+            'pyx4_multiros = pyx4.pyx4_multiros:main',
         ],
     },
 )
